@@ -1,1 +1,2 @@
 master: linia1
+linia 2
